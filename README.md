@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [RestSharp](http://restsharp.org/)
 
 ## 💻 Projeto
-Um pacote de DLL com 2 funções essênciais para aquisição do AccessToken de autenticação Microsoft e de EmbeddedToken para autenticação Microsoft no power BI Embedded, logo a baixo você vera mais sobre como chamar estas 2 funções lembrando que alem da DLL BIEmbedded e preciso ter os 2 pacotes [Newtonsoft](https://www.newtonsoft.com/json) e [RestSharp](http://restsharp.org/) instalados no seu projeto.
+Um pacote de DLL com 2 funções essenciais para aquisição do AccessToken de autenticação Microsoft e de EmbeddedToken para autenticação Microsoft no power BI Embedded, logo a baixo você vera mais sobre como chamar estas 2 funções lembrando que alem da DLL BIEmbedded e preciso ter os 2 pacotes [Newtonsoft](https://www.newtonsoft.com/json) e [RestSharp](http://restsharp.org/) instalados no seu projeto.
 
 
 
