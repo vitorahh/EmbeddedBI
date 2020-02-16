@@ -1,0 +1,3 @@
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\bin\Debug\netstandard2.0\BIEmbedded.deps.json
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\bin\Debug\netstandard2.0\BIEmbedded.dll
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\bin\Debug\netstandard2.0\BIEmbedded.pdb

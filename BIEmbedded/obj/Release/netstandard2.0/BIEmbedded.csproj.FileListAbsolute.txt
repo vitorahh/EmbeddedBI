@@ -1,0 +1,8 @@
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\bin\Release\netstandard2.0\BIEmbedded.deps.json
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\bin\Release\netstandard2.0\BIEmbedded.dll
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\bin\Release\netstandard2.0\BIEmbedded.pdb
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\obj\Release\netstandard2.0\BIEmbedded.csprojAssemblyReference.cache
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\obj\Release\netstandard2.0\BIEmbedded.AssemblyInfoInputs.cache
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\obj\Release\netstandard2.0\BIEmbedded.AssemblyInfo.cs
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\obj\Release\netstandard2.0\BIEmbedded.dll
+C:\Users\Dominic\source\repos\Embedded\BIEmbedded\obj\Release\netstandard2.0\BIEmbedded.pdb
