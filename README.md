@@ -38,8 +38,11 @@ Console.ReadKey();
 - <strong>GROUP_ID</strong>: Tambem conhecido como Workspace_ID do Report que seja Embeddar
 - <strong>REPORT_ID></strong>: ID do report que deseja Embeddar
 
+## 📎 Em caso de Duvidas
+[Power BI API Documentação](https://docs.microsoft.com/en-us/rest/api/power-bi/embedtoken)
+[Willian Gomes Vitor](https://www.linkedin.com/in/vitorwillian/)
 
 <br/>
-<p align="center">Feito por Willian Gomes Vitor durante as aulas da semana OmniStack</center>
+<p align="center">Feito por Willian Gomes Vitor em um Sabado Qualquer...</center>
 
 
