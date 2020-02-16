@@ -39,8 +39,8 @@ Console.ReadKey();
 - <strong>REPORT_ID></strong>: ID do report que deseja Embeddar
 
 ## 📎 Em caso de Duvidas
-[Power BI API Documentação](https://docs.microsoft.com/en-us/rest/api/power-bi/embedtoken)
-[Willian Gomes Vitor](https://www.linkedin.com/in/vitorwillian/)
+- [Power BI API Documentação](https://docs.microsoft.com/en-us/rest/api/power-bi/embedtoken)
+- [Willian Gomes Vitor](https://www.linkedin.com/in/vitorwillian/)
 
 <br/>
 <p align="center">Feito por Willian Gomes Vitor em um Sabado Qualquer...</center>
