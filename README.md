@@ -12,7 +12,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Um pacote de DLL com 2 funções essenciais para aquisição do AccessToken de autenticação Microsoft e de EmbeddedToken para autenticação Microsoft no power BI Embedded, logo a baixo você vera mais sobre como chamar estas 2 funções lembrando que alem da DLL BIEmbedded e preciso ter os 2 pacotes [Newtonsoft](https://www.newtonsoft.com/json) e [RestSharp](http://restsharp.org/) instalados no seu projeto.
 
-
+## 🎯 Code
+O exemplo a baixo e de como fazer a chamada da API e Deserializar ela em um Objeto RespAccessToken e RespEmbeddedToken
+ou você pode usar JSON with LINQ Exemplo AccessJson["access_token"].ToString(); para pegar a informação de dentro da resposta sem necessariamente ter uma classe so para deserialização.
+Obs.: Mais a baixo deixo o codigo das 2 classes para deserializar.
 ```
 Embedded BI = new Embedded();
 
@@ -28,6 +31,13 @@ Console.WriteLine(Embedded.Token);
 Console.ReadKey();
 
 ```
+
+- <strong>APLICATION_ID</strong>: ID de Aplicação que e gerado pelo Azure
+- <strong>EMAIL-POWERBI</strong>: Email da conta que possue o serviço de Embedded do Power BI
+- <strong>SENHA-POWERBI</strong>: Senha da conta que possue o serviço de Embedded do Power BI
+- <strong>GROUP_ID</strong>: Tambem conhecido como Workspace_ID do Report que seja Embeddar
+- <strong>REPORT_ID></strong>: ID do report que deseja Embeddar
+
 
 <br/>
 <p align="center">Feito por Willian Gomes Vitor durante as aulas da semana OmniStack</center>
